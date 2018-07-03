@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">listItems</string>
+
+    <string-array name="names">
+
+
+        <item>Ravindranath Tegore</item>
+        <item>J.K. Rowling</item>
+        <item>Padma Lakshmi</item>
+        <item>Benjamin Franklin</item>
+        <item>R.K. Narayan</item>
+        <item>Sarojini Naidu</item>
+        <item>William Shakespeare</item>
+        <item>Irfan Khan</item>
+        <item>Paul Walker</item>
+        <item>Robert Downey</item>
+        <item>Will Smith</item>
+        <item>Ed Sheeran</item>
+        <item>Taylor Swift</item>
+
+    </string-array>
+
+
+
+    <string-array name="description">
+
+        <item>Profession: Writer</item>
+        <item>Profession: Writer</item>
+        <item>Profession: Writer</item>
+        <item>Profession: Writer</item>
+        <item>Profession: Writer</item>
+        <item>Profession: Writer</item>
+        <item>Profession: Writer</item>
+        <item>Profession: Actor</item>
+        <item>Profession: Actor</item>
+        <item>Profession: Actor</item>
+        <item>Profession: Actor</item>
+        <item>Profession: Singer</item>
+        <item>Profession: Singer</item>
+
+    </string-array>
+
+
+
+
+
+</resources>
