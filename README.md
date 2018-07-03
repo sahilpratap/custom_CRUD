@@ -1,5 +1,8 @@
 # custom_CRUD
+
 Android
+
+
      1.open contex menu by long press on list item
      2.Edit list items 
      3.delete list items
